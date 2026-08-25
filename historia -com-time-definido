@@ -1,0 +1,47 @@
+#DESAFIO CELIO#
+import time
+nome = input('digite o Nome do personagem principal: ')
+
+print(nome +" caminhava a passos firmes pelas pedras ancestrais,")
+time.sleep(1.5)
+
+print("enquanto ecos distantes chamavam por "+ nome + "dentro dos portais")
+time.sleep(1.5)
+
+print("A espada de " + nome + " brilhava com um fogo prateado e azul,")
+time.sleep(1.5)
+
+print("guiando os olhos de " + nome +" em direção ao antigo sul.")
+time.sleep(1.5)
+
+print("Quando a enorme besta despertou de seu sono profundo,")
+time.sleep(0.5)
+
+print(nome + " não sentiu medo, pois sabia seu lugar no mundo.")
+time.sleep(0.5)
+
+print("A fera encarou " + nome +" com olhos de puro rubi,")
+time.sleep(0.5)
+
+print("e uma voz ecoou: " + nome +  " o que você busca aqui?")
+time.sleep(0.5)
+
+print(nome + " ergueu o escudo e respondeu com voz de trovão,")
+time.sleep(0.5)
+
+print("provando que o espírito de " + nome + " guardava a redenção.")
+time.sleep(0.5)
+
+print("Com um golpe certeiro, " + nome + " fez a criatura recuar,")
+time.sleep(0.5)
+
+print("e a coragem de " + nome + " finalmente fez a luz retornar.")
+time.sleep(0.5)
+
+lugar = input('digite o lugar: ')
+
+if lugar == 'madalena':
+  print('sai porra')
+else: 
+  lugar == 'pqp'
+  print('vai se foder perua')
